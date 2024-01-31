@@ -1,3 +1,7 @@
+https://github.com/ychoi-kr/koreanize-matplotlib
+
+풀리퀘스트는 위 레포로 해주시면 감사하겠습니다. 
+
 # koreanize-matplotlib
 matplotlib를 한국어 표시에 대응시킵니다.
 
